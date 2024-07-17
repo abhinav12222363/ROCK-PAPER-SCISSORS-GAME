@@ -36,10 +36,3 @@ This project is a simple implementation of the classic game Rock Paper Scissors.
 4. **Reset Game:**
    - Click on the "Reset game" button to reset the score.
 
-
-
-For any inquiries or feedback, please contact [your-email@example.com].
-
----
-
-Feel free to customize this README.md file further to suit your project's needs.
